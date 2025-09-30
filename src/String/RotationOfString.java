@@ -16,4 +16,5 @@ public class RotationOfString {
         String concatenated = s + s;
         return concatenated.contains(goal);
     }
+
 }
